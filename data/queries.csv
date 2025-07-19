@@ -1,0 +1,617 @@
+query,query_type,tool_needed,tool_name
+What is the main ingredient in scrambled eggs?,no_tool,False,
+What are three common types of exercises included in a basic fitness routine?,no_tool,False,
+What is the main goal of most businesses?,no_tool,False,
+What is the main purpose of education?,no_tool,False,
+What is a popular indoor hobby that involves arranging colorful pieces to complete a picture?,no_tool,False,
+What is the French cooking term for dishes that are cooked and served in a small individual casserole or baking dish?,no_tool,False,
+What are the main differences between aerobic and anaerobic exercise in terms of their benefits and examples?,no_tool,False,
+What are the main differences between a sole proprietorship and a corporation in terms of ownership and liability?,no_tool,False,
+What are some of the major differences between formal and informal education?,no_tool,False,
+What are some common hobbies people enjoy that involve creativity and hands-on activities?,no_tool,False,
+whhat is the main ingredients in omlet?,no_tool,False,
+whats the best waty to stay fit without going to gym,no_tool,False,
+what is the main purpsoe of busines?,no_tool,False,
+wat is the main purpos of education?,no_tool,False,
+whta are sum poular hobbies peope like to do?,no_tool,False,
+whcih country is beleived to have invented paella and waht are the key ingrdients?,no_tool,False,
+What are some benfits of regualr excercise for your overal fitness levle?,no_tool,False,
+what is the main diffence betwen partnesrhip and a coperation in busines?,no_tool,False,
+what are the main benefit's of eductaion in socity,no_tool,False,
+whhat are some hobbyes peoples like to do in theyr free time?,no_tool,False,
+What are some easy dinner recipes I can try if I'm just learning how to cook?,no_tool,False,
+What are some easy exercises I can start with as a beginner to improve my overall fitness?,no_tool,False,
+What are some basic steps to start a small business from home?,no_tool,False,
+What are some effective tips for staying organized while studying for school exams?,no_tool,False,
+What are some easy hobbies I can start at home if I have no prior experience?,no_tool,False,
+What are some tips for meal prepping healthy lunches for the week without spending hours in the kitchen each day?,no_tool,False,
+What are some effective strategies for staying motivated to exercise regularly when you have a busy schedule?,no_tool,False,
+What are some daily habits that successful business owners recommend for improving productivity and work-life balance?,no_tool,False,
+What are some effective strategies for managing your time and staying organized while balancing education and personal life?,no_tool,False,
+What are some affordable ways to discover new hobbies as an adult if you’re not sure where to start?,no_tool,False,
+wats the best way to stop rice from getting all sticky when cookin it?,no_tool,False,
+how to start gettin fit if i never excersised before?,no_tool,False,
+how do i start my own buisness from hom?,no_tool,False,
+whats some simple step[s to study better for school?,no_tool,False,
+wht are some good hoobies for relaxing after work,no_tool,False,
+What are som quick wayz to prepair healty dinners during bussy weeknights withut using to many dishes?,no_tool,False,
+whats the best way to start workingou t regularly if i always loss motivation?,no_tool,False,
+wht are sum good tips for balancing personl life & running a buisness at the same tiem?,no_tool,False,
+wHat are some simple wayz to stay motivated while studyying for long exams in college?,no_tool,False,
+whatare some uniqe hobbis i can try at home that dont cost much,no_tool,False,
+Write a short paragraph describing your favorite meal to cook and what makes it special to you.,no_tool,False,
+Write a short paragraph describing your favorite way to stay fit and why you enjoy it.,no_tool,False,
+Write a short paragraph describing an imaginary business you would like to start and explain what makes it unique.,no_tool,False,
+Write a short paragraph describing your ideal school and what makes it special.,no_tool,False,
+Write a short paragraph describing your favorite hobby and explain why you enjoy it.,no_tool,False,
+"Write a short story (200-300 words) about a character who tries to recreate a family recipe from memory, only to accidentally invent a delicious new dish in the process.",no_tool,False,
+"Write a short story about someone who discovers an unconventional way to stay fit, explaining how it changes their daily routine and outlook on life.",no_tool,False,
+Write a short story about a business owner who faces an unexpected ethical dilemma that challenges their values.,no_tool,False,
+Write a short story about a student who discovers an unexpected passion for learning through an unusual experience at school.,no_tool,False,
+Write a short story about a character who discovers a new hobby that unexpectedly changes their life.,no_tool,False,
+"Write a short story about coking your favrite dish but accidently burning it, and what happends after.",no_tool,False,
+wrtie a short paragrph about why fitnss is importnt for kids,no_tool,False,
+writ ea short story aboutt opening a new busiiness in your citty,no_tool,False,
+whhy is edcation importnt for kids?,no_tool,False,
+whta are somme fun hobies yu do inn ur free time?,no_tool,False,
+"Wrtie a shrot story about a famliy that tries to cookd inner together buth everythings goes hilariously wrong, use dialouge and disribe the sounds in the kithcen.",no_tool,False,
+wrtie a short storie about how someone strted ther fintess jounrey and had TROUBLE staying motiveted,no_tool,False,
+"wrtie a short paragrpah discribing a businees idea, make sure to include what the busienss sells and who it customers might be",no_tool,False,
+"Wrtie a short parragraph abot how educashun can chnge someone's life, using at least three speling errots and not uisng any proper punctuashion.",no_tool,False,
+"describ your favrite hobbys and why you enjoy them,, give egamples of how you got started?",no_tool,False,
+What is the definition of cooking?,no_tool,False,
+"What does the term ""fitness"" mean?",no_tool,False,
+"What is the definition of ""business""?",no_tool,False,
+What is the definition of education?,no_tool,False,
+What is the definition of a hobby?,no_tool,False,
+"What does ""simmer"" mean in cooking?",no_tool,False,
+"What does the term ""fitness"" mean in the context of evolutionary biology?",no_tool,False,
+"What is the definition of ""business"" in the context of economics?",no_tool,False,
+What is the definition of education and how does it differ from training?,no_tool,False,
+"What is the definition of hobbies, and how do they typically differ from professional activities?",no_tool,False,
+"whaat does ""saute"" meanin cooking??",no_tool,False,
+wat dose fitnss meen?,no_tool,False,
+waht is a bussiness definision?,no_tool,False,
+"waht does ""educaton"" mean?",no_tool,False,
+what is hobbis and give some exaples,no_tool,False,
+"What exaclty does ""simmer"" mean when your cooking somethng onstove?",no_tool,False,
+"Wat does ""fitnes"" mean in realted to an healthy lifestyl?",no_tool,False,
+what does buisness meen in ecomomic terms?,no_tool,False,
+wht is the difinition of educatoin?,no_tool,False,
+"whats are some comman hobbies poeple enjoy, and how do you difine the term ""hobbie""?",no_tool,False,
+Why is it important to preheat the oven before baking cookies?,no_tool,False,
+Why is regular exercise important for maintaining good health?,no_tool,False,
+Can you explain what a business is in simple terms?,no_tool,False,
+What is the main purpose of education?,no_tool,False,
+What is a hobby and why are hobbies important for people?,no_tool,False,
+Can you explain how simmering differs from boiling when cooking soups or stews?,no_tool,False,
+How does progressive overload contribute to muscle growth in a fitness routine?,no_tool,False,
+Can you explain how supply and demand affect pricing in a business?,no_tool,False,
+How does project-based learning differ from traditional teaching methods in education?,no_tool,False,
+Can you explain how someone might develop a new hobby and what steps they could take to become skilled at it?,no_tool,False,
+can u explane why water boils when cooking pasta?,no_tool,False,
+wht is the important of fitness for our all health?,no_tool,False,
+What are some main thigns that a busines needs to do to suceed?,no_tool,False,
+what is the porpuse of eduction and why is it importnt for peaple,no_tool,False,
+plz explane what are hobies and why do ppl like tham?,no_tool,False,
+Can you explan why sauteing vegtables before boiling them can change ther flavour and texture when cooking?,no_tool,False,
+Can you explane why reguller exersize is important for mantaining good fitnes?,no_tool,False,
+"Can u explane how supply n demand affects businnesses succsess, and give and example?",no_tool,False,
+explain how publick educatoin systems work in differnt countrys and why some are more succesful then others,no_tool,False,
+Can you expalin why people chooose different hobbies and what makes a hobbie enjoyable for soneone?,no_tool,False,
+What is the difference between baking and frying when cooking food?,no_tool,False,
+What are the main differences between cardio and strength training for improving overall fitness?,no_tool,False,
+How is a small business different from a large business?,no_tool,False,
+What is the main difference between online education and traditional classroom education?,no_tool,False,
+How is reading books different from playing video games as a hobby?,no_tool,False,
+What are the main differences between baking and grilling when it comes to cooking techniques and results?,no_tool,False,
+What are the key differences between aerobic and anaerobic exercises in terms of their impact on overall fitness?,no_tool,False,
+Compare the main differences between a corporation and a partnership in terms of liability and management structure.,no_tool,False,
+How does online education compare to traditional classroom education in terms of student engagement?,no_tool,False,
+Compare the benefits of playing a team sport versus practicing a solo hobby.,no_tool,False,
+"Whihc is better, stovetop or oven for coooking chiken faster?",no_tool,False,
+wich is better for loosing fat: joggin or walkin?,no_tool,False,
+whats beter for startin a busness: online store or a fiziical shop?,no_tool,False,
+Whats better- online educatoin or trditional clasroom learning?,no_tool,False,
+whats diffrence beetwen painting and drawing as hobbies?,no_tool,False,
+whats diffrence betwen boiling and simmering in cookng?,no_tool,False,
+what r main differeces betwwen cardiovasclar fitness and muscelar fitness?,no_tool,False,
+whats the diffrence betwen busines to comapny ?,no_tool,False,
+Compare teh differenses between public adn privat schools in terms of acaddemic performnace and resourses.,no_tool,False,
+"whats the differece betwen painting as hobbie and playing guittar, can you explaint?",no_tool,False,
+How do I make scrambled eggs step by step for a beginner?,no_tool,False,
+What are the step-by-step instructions for creating a beginner-friendly full-body workout routine at home?,no_tool,False,
+How do I create a simple business plan step by step?,no_tool,False,
+How do you register for classes at a community college?,no_tool,False,
+"How do I start learning calligraphy as a hobby, step by step?",no_tool,False,
+"How do I make homemade lasagna from scratch, including preparing the pasta, meat sauce, and cheese layers?",no_tool,False,
+Can you provide step-by-step instructions for creating an intermediate-level full-body fitness routine to be done at home without equipment?,no_tool,False,
+What are the step-by-step instructions to create a basic business plan for a small startup?,no_tool,False,
+How do you create a lesson plan for a high school history class step by step?,no_tool,False,
+Can you provide step-by-step instructions for learning how to play the guitar as a beginner hobbyist?,no_tool,False,
+"how do i make scrambled eggs step by step (please dont use oven and write steps like i can easily follow, also dont use cheese)?",no_tool,False,
+"how do i do push ups for fitness step by step in easyy way, plese write them out numbered but dont bother with too much puctuation or capitals",no_tool,False,
+how do i start a buisness from sracth step by step?,no_tool,False,
+how do i make a new acount for online classes in educatiobn system step by step?,no_tool,False,
+how do i startt learnning to knit step by steps please add the list with no number,no_tool,False,
+"How do I make homemade lasgna from scratch step by step, includ ing making the pasta sheets, sauce and cheese filling?",no_tool,False,
+howw do i creat a step-by-step guid for a beginner to strat a home workout routin but make it for indeermediate level?,no_tool,False,
+how do i make a succesful buisiness pln step by step and what order shouold i do the steps in?,no_tool,False,
+how do i creat an online learning portl for teacheres and studnents? pleese explain stps one by one,no_tool,False,
+"Sure! Here’s your query:
+
+Can u explan step by step how to getting started with wood carving as a hoby? Pleaze list the steps, but dont ferget to say witch tool is needed for each stp.",no_tool,False,
+Can you give me feedback on a short paragraph I wrote about why I enjoy cooking at home?,no_tool,False,
+Can you give feedback on this short paragraph about my fitness journey?,no_tool,False,
+Can you review my short paragraph about starting a small business and suggest how I could make it clearer?,no_tool,False,
+Can you give feedback on a short paragraph I wrote about the importance of education?,no_tool,False,
+Can you give me feedback on a short paragraph I wrote about my favorite hobby?,no_tool,False,
+Can you review my short essay about how cooking at home can strengthen family bonds and suggest specific ways I could make my arguments more persuasive?,no_tool,False,
+Can you review my short essay about the benefits of maintaining a regular fitness routine and suggest ways I can improve my argumentation and clarity?,no_tool,False,
+Can you review this business proposal and suggest ways to make the introduction more compelling?,no_tool,False,
+Could you give me feedback on my essay about how technology is changing education?,no_tool,False,
+Can you give me feedback on this short paragraph I wrote about my hobbies?,no_tool,False,
+"Can yu pls check my parargraph about how to cok pasta, I think there are some spelling mistkaes and is my puncuation rite?",no_tool,False,
+"Rewrite the following sentnce with correct spelling and puntuation: ""I like go to the gym its help me get more fit, sometime I runing on the trade mill and do weight.""",no_tool,False,
+Can you help me fix ths paragraf about my busines letter? I think there is some ponctuation and capiatlization mistakes.,no_tool,False,
+Can you chek my paragragh about eduction and tell me what I did wrong?,no_tool,False,
+what are your hobbis and why do you like them write 3 setences,no_tool,False,
+"Can you give me feedback on this paragraph about cooking? i tryed to explain how too make pasta, but im not sure if the steps is clear or if i used to much repitition. Also, does the punctuation look right",no_tool,False,
+"Can you review the followeing paragragh about fittness and tell me if the ideas are clear and what gramitcal or spelling mistakes I made: ""I like to do fitness every day, it helps me keep health and happy. Running and do some weightes make me feel strong. Sometime I go gym with my freind and we challenge each other to do better.""",no_tool,False,
+Can you review this buisness proposal and tell me where I need to fix grammer and also if the format is okay?,no_tool,False,
+Can yu give me feedbakc on my paraagraph about why educacion is importent for societys groth and succcess?,no_tool,False,
+"Can you chek my paragraph about my hobbys and tell me what I did wrong with gramar and formatting? Here it is: my favorite hobby is painting it help me relaxing. also i like to read books, listen music and play footbal with freinds.",no_tool,False,
+Why does cooking sometimes feel so stressful even when I try to keep things simple?,no_tool,False,
+Why do I always lose motivation to work out after just a couple of weeks?,no_tool,False,
+What is something about your current work or business environment that frustrates you the most?,no_tool,False,
+What's one thing about the current education system that really frustrates you?,no_tool,False,
+What hobby do you wish you had more time for?,no_tool,False,
+"Why does it seem like every time I try to cook something new, I mess it up even when I follow the recipe exactly?",no_tool,False,
+"Why does it feel so hard to stay consistent with my fitness routine, even when I know it’s good for me?",no_tool,False,
+I'm feeling frustrated because my suggestions for improving efficiency at work are often ignored by management—has anyone else experienced this in their business?,no_tool,False,
+Why do some students feel overwhelmed by the current education system?,no_tool,False,
+What are some common frustrations people experience when they try to find time for their hobbies?,no_tool,False,
+ugh why does my foo always stick to the pan?? tried so many thing but my eggs r alwys ruined. any tips or is it just me lol,no_tool,False,
+ugh why is it so hard to stay motivated for fitnes?? i keep saying ill start tomorruw but then im too tired or i forget. its so anoying! anyone else get this??,no_tool,False,
+"Ugh, why is it so hard to get anythig done in bussiness meetings? Does anyone even listen?",no_tool,False,
+"Why dose school always feel so boring and long? Teachers just give us homework all the time, dont they know we have lifes outside of skool??",no_tool,False,
+"ugh why is it so hard to find time for any hobies these days? like i just wanna draw or play games but work is always in the way, anyone else feel the same way??",no_tool,False,
+"why does mykitcehn always end up so messy after I cook? It's like, no matter how much I tri to clean as I go, theres still pots and pans everywhere and the counters get all sticky. anyone else deal with this or am i just bad at cooking??",no_tool,False,
+"ugh why iz it so hard 2 stay motivated for fittness?? like i wanna workout but sum days i just cba and the gym is soo crowded, any1 else relate??",no_tool,False,
+"Ugh, why does my boss always play favorites at work?? its so unfair, how does anyone deal with all this busines drama everyday!?",no_tool,False,
+ugh why does scholl always make everything so mcuh harder than it needs to be? Teachers never explain thigns properly and then they expect us to magically understand... what even is the point of all thse assignments if no one accually learns anything?,no_tool,False,
+"Ugh, why is it so hard to find time for my hobbis anymore, it feels like theres always something getting in the way?",no_tool,False,
+"Write a Python function called make_pancakes that takes an integer number_of_pancakes and returns a string saying ""Making X pancakes!"", where X is the input number.",no_tool,False,
+"Create a simple Python program that takes a user's name and their favorite type of exercise as input, then prints a personalized message encouraging them to keep up their fitness routine.",no_tool,False,
+"Write a simple Python function that takes two numbers representing revenue and expenses, then returns the profit.",no_tool,False,
+"Write a Python program that asks the user to enter their name and then prints ""Hello, [name]! Welcome to the class.""",no_tool,False,
+Write a simple Python program that asks the user for their favorite hobby and then prints a message with their response.,no_tool,False,
+Write a Python function that takes a list of recipe steps as input and returns a string where each step is numbered and separated by a newline.,no_tool,False,
+"Write a Python function that takes a list of daily step counts as input and returns the average number of steps for the days where the step count exceeds 10,000.",no_tool,False,
+"Write a Python function that takes a list of sales transactions (each transaction is a dictionary with keys 'date', 'amount', and 'customer') and returns the total sales amount for each customer.",no_tool,False,
+"Write a Python function that takes a dictionary with student names as keys and their scores as values, then returns the name(s) of the student(s) with the highest score.",no_tool,False,
+"Write a Python script that lets a user enter their list of hobbies, stores them in a list, and then displays the hobbies sorted alphabetically.",no_tool,False,
+"Write a pythn program that asks the user to enter 3 ingrediants and prints them in a sentnce about cooking, but forget to close some parenthese.",no_tool,False,
+"pritn(""Calculate your BMI. Weight (kg):"",input(""Enter weight: ""))  
+height = input(""Enter height (m): "")  
+bmi = weight / (height ** 2)  
+pritn(""your bmi si: "", bmi)",no_tool,False,
+Plz write a simple html page for a buiness webesite with a titl and a sectoin about the companny. Use html tags and dont add css,no_tool,False,
+wrte a Python funtion that calculates the avrage of three nmbers inputed by the user,no_tool,False,
+"write a functoin in Python that list my hobbies ""reading, painting, gardenig and cooking"", but dont use any indentation",no_tool,False,
+"write a pyhton function that takes a recipi as input and return the list of ingrediants, but make sure to ignore emtpy lines in the recpie.",no_tool,False,
+Write a Python fnction that calculats the BMI (Body Mass Index) from user input wheere weight is in kilograms and height is in metrs. Print the reslt with 2 decimal points.,no_tool,False,
+"Wrte a python code that genrates a simple businnes invoise, but make sure to incldue some tab and space formatting mistakes.",no_tool,False,
+"Write a funtion in Python to caluclate the avergae grade of students in a list, where each student's grade is stored as an intiger in a list called studnets_grades. Return the reslt as a floaat.",no_tool,False,
+"write a funtion in Python that reterns a list of unique hobbys form an input list, ignore case senstivity and keep orriginal order",no_tool,False,
+What is 75 divided by 8?,easy,True,calculator
+What is 120 divided by 8 plus 7?,easy,True,calculator
+What is the result of 75 divided by 3 plus 12?,easy,True,calculator
+What is the result of 145.7 divided by 3.5?,easy,True,calculator
+What is the result of 245 divided by 7?,easy,True,calculator
+"uh, whats 37*5 plus 116 divided bu 2?",hard,True,calculator
+wats the answeer for 49 x 7 + 18/3?,hard,True,calculator
+wat is 15 times 8 divied by 4 + 2 ?,hard,True,calculator
+what 23 x 17 divide by 4?,hard,True,calculator
+"uhhh can u tell me what is 104.5 add 17,2 times three ?",hard,True,calculator
+"What is the median of the following numbers: [3, 10, 2, 7, 6]?",easy,True,compute_median
+"What is the median of the numbers [8, 13, 2, 4, 11]?",easy,True,compute_median
+"What is the median of these numbers: [2, 7, 4, 9, 1]?",easy,True,compute_median
+"What is the median of the following numbers: 10, 3, 5, 8, and 2?",easy,True,compute_median
+"What is the median of the numbers [4, 8, 15, 16, 23, 42]?",easy,True,compute_median
+what the midium of these: [4 7 9 2] pls?,hard,True,compute_median
+"hi, i got this numbers: [5, 2, 9, 4, 8], whats the medain?",hard,True,compute_median
+"Can u tell me teh median for these numbers: 12, 5, 9, 18, 20",hard,True,compute_median
+"heyy can u tell me whats the middle numbr in [3, 5, 9, 1, 8, 2]?",hard,True,compute_median
+"whats the median for [22, 15, 8, 5, 11, 18, 6]?",hard,True,compute_median
+"What is the standard deviation of [15, 22, 13, 17, 19]?",easy,True,compute_std_dev
+"What is the standard deviation of the numbers [12, 15, 20, 22, 18]?",easy,True,compute_std_dev
+"What is the standard deviation of the numbers [10, 12, 15, 18, 20]?",easy,True,compute_std_dev
+"What is the standard deviation of the numbers [3, 7, 8, 10, 15]?",easy,True,compute_std_dev
+"What is the standard deviation of [13, 15, 17, 18, 22]?",easy,True,compute_std_dev
+"how mutch is the std dev for these numbers - 25, 40 35, 30?",hard,True,compute_std_dev
+whats the std dev for these numers: 2.3 5 9.6 8 3?,hard,True,compute_std_dev
+"can u tell me whats the std deviation for these numbers? 10, 15 , 8 , 22, 10",hard,True,compute_std_dev
+"hi can u tell me the stad dev for [3, 7, 9, 10, 15] pls?",hard,True,compute_std_dev
+"uh, i need to know how much my set of numbers moves around :)
+can u tell me whats the std dev for these 4, 8, 15, 16, 23, 42?",hard,True,compute_std_dev
+"What are the minimum and maximum values in the following list: [18, 7, 22, 3, 15]?",easy,True,compute_min_max
+"What are the minimum and maximum values in the list [4, 17, 2, 89, 33]?",easy,True,compute_min_max
+"What are the minimum and maximum values in this list: [14, 5, 89, -2, 33, 7]?",easy,True,compute_min_max
+"What are the minimum and maximum values in the list [8, 13, 3, 27, 5]?",easy,True,compute_min_max
+"What are the minimum and maximum values in the list [18, 5, 27, 9, 12]?",easy,True,compute_min_max
+"ok so heres some numbers: 104, 1, 88, 45, -3 whats the smallest and biggest one?",hard,True,compute_min_max
+"hi i have this llist [3, 90, 8, 0.1, -6, 44] can you find out whas the max and min pls",hard,True,compute_min_max
+"hey, um can you tell me what's the biggest and smalest number in [44, 2.9, 88, -5, 0, 17]? thx",hard,True,compute_min_max
+"hi, um, i hav these nums: 8, 42, 7, 91, 14, 3.. what the smallest and biggest numbeers here?",hard,True,compute_min_max
+"whats the min and max of 3,7,4,2,8,15,1,9?",hard,True,compute_min_max
+How many ways can I choose 4 items from a set of 10?,easy,True,calculate_combinations
+How many different ways can I choose 4 items from a total of 10?,easy,True,calculate_combinations
+How many ways can I choose 3 items from a set of 10?,easy,True,calculate_combinations
+How many ways can I choose 4 items from a set of 10?,easy,True,calculate_combinations
+How many different ways can I choose 3 items from a group of 8?,easy,True,calculate_combinations
+how many ways cn i chose 5 itemss from 14?,hard,True,calculate_combinations
+"hi, okay so i got a group of 9 people and i wanna figure out how many different teams of 5 i can make. how many combinations would that be? i’m not so good at math, sorry.",hard,True,calculate_combinations
+"Hey, so if i have 12 things and I wanna pick 7, how many combos is that? Thx!",hard,True,calculate_combinations
+"if i have a group of 10 peaple and need to pick 4, how many combos?",hard,True,calculate_combinations
+"i have 10 books and want to pick 3 but its late and i forgot how many ways i can pick em, can you tell how many combos?",hard,True,calculate_combinations
+"What will my federal income tax be in 2025 if I earn $78,500?",easy,True,calculate_tax
+"What is the federal income tax for someone earning $60,000 in 2025?",easy,True,calculate_tax
+"What will my federal income tax be if I make $85,000 in 2025?",easy,True,calculate_tax
+"How much federal income tax would I owe in 2025 if my income is $90,000?",easy,True,calculate_tax
+"What will my federal income tax be if I make $85,000 in 2025?",easy,True,calculate_tax
+"um, hi. i earned like 47,000 dollarz this year, can u tell me how much taxes i gotta pay?? i think its for like 2025? thanks",hard,True,calculate_tax
+"hey, can u tell me how much tax someonw would pay if they make 84000 this year? just wanna b sure im using the right numbers lol thx",hard,True,calculate_tax
+"hi sorry, my income this year was about 55000 how much will  i pay for tax?",hard,True,calculate_tax
+"if I make 71,340 usd in 2025, hw much tax do i need to pay?",hard,True,calculate_tax
+"hi, im trying to plan for next year, how much taxes I ow on an income of 58500?",hard,True,calculate_tax
+What date will it be 30 days after 2024-07-01?,easy,True,add_days_to_date
+What date will it be 15 days after 2024-07-01?,easy,True,add_days_to_date
+What date will it be 75 days after 2024-03-12?,easy,True,add_days_to_date
+What is the date 50 days after 2024-07-01?,easy,True,add_days_to_date
+What date will it be 45 days after 2024-02-10?,easy,True,add_days_to_date
+"uh if I have like 2023-11-30 and I addd 8 days, wut date will that be?",hard,True,add_days_to_date
+"hi, if my birthday is 2023-07-14 and I add 47 days, what dat willl it end up?",hard,True,add_days_to_date
+hey can u tell me wat date it will be if i add 30 days to 2023-07-14?,hard,True,add_days_to_date
+Can yo upls tell whats the date if i add 40 days to 2022-06-01?,hard,True,add_days_to_date
+"ok so if i got like ""2023-10-12"" an I want to knw what date is it gonna be 45 days later, how do I figure that without messin the months up??",hard,True,add_days_to_date
+What day of the week was 2024-02-14?,easy,True,get_weekday_from_date
+What day of the week was 2022-09-15?,easy,True,get_weekday_from_date
+What day of the week was 2021-10-31?,easy,True,get_weekday_from_date
+What day of the week was 2023-11-15?,easy,True,get_weekday_from_date
+What day of the week was 2022-10-15?,easy,True,get_weekday_from_date
+"hey, what day of the weeek was 2023-12-13 ??",hard,True,get_weekday_from_date
+waht day of week was it on 2019-7-15?,hard,True,get_weekday_from_date
+"hi, I went to the doctor on 2022-10-05, but I forgot what day it was (like Monday, Tuesday, etc). can u tell me what weekday that was? tx",hard,True,get_weekday_from_date
+whats the weekday on 2022/7/20 ?,hard,True,get_weekday_from_date
+what day is it for 2031-01-07 pls?,hard,True,get_weekday_from_date
+What time is 2024-07-10T15:00:00 in America/New_York if it is in UTC?,easy,True,convert_time_zone
+What is 2024-06-12T15:00:00 in America/New_York if it's currently given in UTC?,easy,True,convert_time_zone
+What is 2024-07-01T15:00:00 in Asia/Tokyo if it's originally in UTC?,easy,True,convert_time_zone
+What is 2024-06-24T14:00:00 from UTC converted to America/New_York time?,easy,True,convert_time_zone
+What is 2024-06-15T14:00:00 in America/New_York time if it's currently in UTC?,easy,True,convert_time_zone
+Hey can u tell me what time it will be in la if its 2024-05-23T18:30:00 in tokyo?,hard,True,convert_time_zone
+"hey i got a meeting at 2024-07-15T14:00:00 in UTC and need to know what time it'll be in tokyo, can you help?",hard,True,convert_time_zone
+i got a call its at 2024-07-01T15:30:00 in UTC so like what time is it in los angeles?,hard,True,convert_time_zone
+what time isit if its 2024-06-27T10:30:00 in utc? i need new york time plz.,hard,True,convert_time_zone
+"im in berlin and got a call set for 2024-07-12T13:15:00Z, wt time should I join?",hard,True,convert_time_zone
+How many days are there between 2023-11-15 and 2024-02-28?,easy,True,calculate_date_diff
+How many days are there between 2023-10-12 and 2024-03-27?,easy,True,calculate_date_diff
+How many days are there between 2023-08-15 and 2024-03-10?,easy,True,calculate_date_diff
+How many days are there between 2022-12-01 and 2023-01-15?,easy,True,calculate_date_diff
+How many days are there between 2023-01-01 and 2023-03-15?,easy,True,calculate_date_diff
+Hy... can u pls tell me how many days is it between 2022-6-15 and 2023-07-01? thx,hard,True,calculate_date_diff
+how many days has it been since 2022/07/15 to now?,hard,True,calculate_date_diff
+uhh what’s the days between 2022-4-8   and 2023-5-2?,hard,True,calculate_date_diff
+How many days is it between 2021 07 15 and 2021-09-10?,hard,True,calculate_date_diff
+"uhm, if i got a date 2023-11-15 and another one, 2024-01-08, can u tell me how many days is that?",hard,True,calculate_date_diff
+What is the Unix timestamp for 2022-08-15?,easy,True,get_unix_timestamp
+What is the Unix timestamp for 2001-09-11?,easy,True,get_unix_timestamp
+What is the Unix timestamp for 2023-12-15?,easy,True,get_unix_timestamp
+What is the Unix timestamp for 2023-11-15?,easy,True,get_unix_timestamp
+What is the Unix timestamp for 2001-09-11?,easy,True,get_unix_timestamp
+what is the unix timstamp for 2002-11-25?,hard,True,get_unix_timestamp
+uhh is it possible to get the unix time-stamp for 1999/12/31?,hard,True,get_unix_timestamp
+i got a date like 2023-17-12 ... can u tell me the unix stamp for it?,hard,True,get_unix_timestamp
+Can u tell me what is th unix timestamp for 2018-9-7?,hard,True,get_unix_timestamp
+whats the unix time for 24-07-2022?,hard,True,get_unix_timestamp
+What is the current date and time?,easy,True,get_current_datetime
+What is the current date and time right now?,easy,True,get_current_datetime
+What is the current date and time right now?,easy,True,get_current_datetime
+What is the current date and time right now?,easy,True,get_current_datetime
+What is the current date and time right now?,easy,True,get_current_datetime
+wht day is it 2day?,hard,True,get_current_datetime
+what day is it today and also the time right now?,hard,True,get_current_datetime
+"um, what day and time is it rn?",hard,True,get_current_datetime
+what date an tme is it rite now?,hard,True,get_current_datetime
+um what time is it now in yr system?,hard,True,get_current_datetime
+"Can you reverse the order of this list for me: [5, 10, 15, 20, 25]?",easy,True,reverse_list
+"Can you reverse the order of the following list for me: [1, 3, 5, 7, 9]?",easy,True,reverse_list
+"Can you reverse the order of this list for me: [apple, banana, cherry, date]?",easy,True,reverse_list
+"Can you show me the list [""dog"", ""cat"", ""mouse""] in reverse order?",easy,True,reverse_list
+"Can you reverse this list for me: [apples, bananas, cherries, dates]?",easy,True,reverse_list
+"hwy do i make [21,8,6] go backwards list?",hard,True,reverse_list
+"hey, can you flip this [dog,cat,fish,mouse,horse] around thx",hard,True,reverse_list
+"heyy can u turn [apple,banana,peach] backwards for me pls? i wanna see the order reversed but i dont wanna do it myself..",hard,True,reverse_list
+"hey, I got this shoppinglist: [bread, eggs, cheese, milk, butter] but I need it in backwards order lol. can u help?",hard,True,reverse_list
+"hey um can u flip these backwards: [7, 'dog', 2.4, 'apple', 10]?",hard,True,reverse_list
+"Can you remove duplicates from this list: [""apple"", ""banana"", ""apple"", ""orange"", ""banana""]?",easy,True,deduplicate_list
+"Here is a list with some duplicate items: [""apple"", ""banana"", ""apple"", ""orange"", ""banana""]. Can you remove the duplicates for me?",easy,True,deduplicate_list
+"Can you remove all duplicate values from this list: [""apple"", ""banana"", ""apple"", ""orange"", ""banana"", ""grape""]?",easy,True,deduplicate_list
+"Can you remove the duplicates from this list: [apple, banana, apple, orange, banana]?",easy,True,deduplicate_list
+"I have a list with repeated items: [""apple"", ""banana"", ""apple"", ""orange"", ""banana""]. Can you give me the list without any duplicates?",easy,True,deduplicate_list
+"I have this list: [a, b, c, a, a, b, d] can yu tell wich items are only there once? Thnx!",hard,True,deduplicate_list
+"hiy. can you deduplicate this lisT for me: [“apple”, “banana”, “apple”, “grape”, “banana”, “pear”,“grape”]? thx",hard,True,deduplicate_list
+"hey i have a list like [apple,banana,apple,orange,banana] can you dedup it for me ?",hard,True,deduplicate_list
+"i got like 3 ""cat"" and 2 ""dog"" in my list [""cat"", ""dog"", ""cat"", ""bird"", ""dog""]. can u deduplicate it?",hard,True,deduplicate_list
+"My shoppingg list: [""milk"",""bread"",""eggs "",""cheese"",""bread "",""milk""] – Can u make it dont have copy things on it?",hard,True,deduplicate_list
+"Can you arrange these numbers [34, 7, 23, 89, 1] from largest to smallest?",easy,True,sort_list
+"Can you sort the list [32, 4, 15, 8] in ascending order?",easy,True,sort_list
+"Can you put these numbers in order from biggest to smallest: [15, 3, 42, 8, 27]?",easy,True,sort_list
+"Can you sort this list of numbers [14, 3, 27, 8] in descending order?",easy,True,sort_list
+"Can you sort the following numbers in descending order: [5, 12, 3, 19, 8]?",easy,True,sort_list
+"hey, i got a list of numers: [5, 2, 9, 1, 7], can u help me put them in acending order?? Thanks",hard,True,sort_list
+"Hey, um, I have numbers like [12, 4, 22, 9]. how do i get them al from kleinest to the most? Not sure which to set for descending for that, can you do it?",hard,True,sort_list
+"can u put thiiss [3,1,4 2,9 ] in order for me? I want it like lowest to bigest, thx!!",hard,True,sort_list
+"hey i have this list [7,2,9,1] how do i get it show up biggest to smallest?",hard,True,sort_list
+"hey i have a list 4, 7, 2, 11, 5 can u put it from bigest to smalest? thx",hard,True,sort_list
+"Which numbers from this list [3, 8, 15, 22, 6] are greater than 10?",easy,True,filter_list
+"Which numbers in this list [2, 8, 15, 23, 7] are greater than 10?",easy,True,filter_list
+"Can you show me all the numbers greater than 50 from this list: [12, 67, 34, 89, 23, 51]?",easy,True,filter_list
+"Which numbers in the list [3, 7, 12, 15, 22] are greater than 10?",easy,True,filter_list
+"Which numbers from this list are even: [3, 6, 8, 11, 14]?",easy,True,filter_list
+"can u get me from [14, 9, 22, 7] only them what is lesser then 15?",hard,True,filter_list
+"i got this list [3,'a',12,5.5,25,""hello""] an want only numbers biger than ten, how du I do it?",hard,True,filter_list
+"loooked at my liist, can u get only values that are not even numbers? pls filter these [12, 7, 24, 3, 9, 18]",hard,True,filter_list
+"hi i have a big list of these nums [24, 7, 32, 8, 9, 3, 19, 14] and want just the ones over ten plz.",hard,True,filter_list
+"hey i got a list like [2, 9, 15, 7, 20, 3] and i just want the numbers bigger than 8. waht do i put for the condition thing?",hard,True,filter_list
+"How many words are in the sentence ""The quick brown fox jumps over the lazy dog""?",easy,True,word_count
+"How many words are in the sentence ""Artificial intelligence is transforming the world""?",easy,True,word_count
+"How many words are in the sentence ""The quick brown fox jumps over the lazy dog""?",easy,True,word_count
+"How many words are in the sentence ""Learning is a lifelong journey""?",easy,True,word_count
+"How many words are there in: ""Success is not final, failure is not fatal""?",easy,True,word_count
+"how many word are in : ""The quick brown fox jumped over thr fence""",hard,True,word_count
+Can u tell me hw many words are in this:  I really enjoyed the movie last night! It was super fun and exciting :),hard,True,word_count
+how man words in this?: The quick broown fox jumps ovver the lazy doog,hard,True,word_count
+How many words are there in this text:  quick brown fox jumps over lazy the dog,hard,True,word_count
+"um so like, how many words r in this sentance: The quick brown fox jumps over the lazy dog & the cat too?",hard,True,word_count
+"How many times does the letter ""e"" appear in the sentence ""Never underestimate the power of teamwork""?",easy,True,char_count
+"How many times does the letter ""e"" appear in the sentence ""Here is an example text for counting""?",easy,True,char_count
+"How many times does the letter ""e"" appear in the sentence ""Here is a simple example""?",easy,True,char_count
+"How many times does the letter ""e"" appear in the sentence ""Experience is the best teacher""?",easy,True,char_count
+"How many times does the letter ""e"" appear in the sentence ""Experience is the best teacher""?",easy,True,char_count
+"hey, uhm... how many t's are there in ""Letter to the Editor""?",hard,True,char_count
+how many times does the letter e apears in The quick brown fox jumps over the lazy dog,hard,True,char_count
+"Hey, uh, can you tell me how many letter ""o"" in this sentence: ""Look out for the owls on the oak tree.""? Thx",hard,True,char_count
+"how mny times does the ltr 'r' apear in ""Rainy roads are rarely realy red""?",hard,True,char_count
+can u tell me how many t is in: The letter t is interesting aaand sometimes ttricky,hard,True,char_count
+"Can you turn the phrase ""Summer Sale 2024: Up to 50% Off!"" into a URL-friendly slug?",easy,True,slugify_text
+"Can you convert ""Ice Cream & Waffle Party!"" into a URL-friendly slug?",easy,True,slugify_text
+"Could you turn ""Hello, World! Welcome to AI."" into a URL slug for me?",easy,True,slugify_text
+"Can you convert the phrase ""Hello, World! Let's Go."" into a URL-friendly slug?",easy,True,slugify_text
+"Can you turn ""Hello, World! Welcome to 2024."" into a URL-friendly slug?",easy,True,slugify_text
+hey can you slugify '  Hello World! This is 2024. ' pls,hard,True,slugify_text
+"hey can u make slug from  ""This is my first BLOG post!!!"" pls",hard,True,slugify_text
+"hey, i need a link for ""CrAzY Deals 2024!!"" but it need to be like, url frendy, can u help?",hard,True,slugify_text
+"hey can u make a slug of ""Best Ways to Cook Eggs""?",hard,True,slugify_text
+"Hi, can u please slugify this title:  ""New Product Launch!!! Exciting Times@2024"" Thanks",hard,True,slugify_text
+"Can you extract all the hashtags from this sentence: ""Loving the vibes at the beach! #summer #sun #fun""?",easy,True,extract_hashtags
+"Can you show me all the hashtags in this sentence: ""Enjoying the sunny day at the beach! #summer #vacation #relax""?",easy,True,extract_hashtags
+"Can you pull out all the hashtags from this sentence: ""We're excited for the #SummerFest2024! Don't miss it! #FunTimes #FamilyEvent""?",easy,True,extract_hashtags
+"What hashtags are in the sentence ""Excited for our summer trip! #vacation #beach #fun""?",easy,True,extract_hashtags
+"Can you show me all the hashtags in this sentence: ""We love #pizza and #FridayNights with good friends!""?",easy,True,extract_hashtags
+"hey, um I'm tryin to fin the hash tags in this post: ""Can u beleive #summer is finaly here?! #Excited #vacayplans2024 :)"" what are all of them ?",hard,True,extract_hashtags
+"hey, umm can u pull out the hash tags from this for me? i have this post: ""Spending Sunday with the family! #weekendvibes #relax #famTime""",hard,True,extract_hashtags
+"can u find me all #hashtags in this post: ""had a great day out! #sun #happy #weekendfun lets do it again""",hard,True,extract_hashtags
+"hey i saw this post on twitter: Wow! I can’t believe it, amazing results!! #growth #Success #HustlemodeON :) can you get me the hashtags pls",hard,True,extract_hashtags
+"can u pull out all the happhtags from this txt: I love #coding, #python and #AI so much!",hard,True,extract_hashtags
+"Can you list all the URLs found in this paragraph?
+
+""Here are some resources to check out: https://www.example.com, find documentation at http://docs.resource.org, and our blog is at https://blog.site.net for updates.""",easy,True,extract_urls
+"Can you show me all the URLs found in this paragraph: ""Check out our new site at https://www.example.com or contact us via http://help.example.com/support. For more info, visit www.info.com""?",easy,True,extract_urls
+"Can you show me all the URLs found in this paragraph: ""For more information, visit https://openai.com or check our documentation at http://docs.openai.com/help.""?",easy,True,extract_urls
+"Can you list all the URLs found in this paragraph? ""Visit https://example.com for info, and check our blog at http://blog.example.org/latest.""",easy,True,extract_urls
+"Can you show me all the links mentioned in this paragraph? ""Check out our homepage at https://www.example.com or follow us on social platforms like http://twitter.com/example.""",easy,True,extract_urls
+can u plz pull out allthe links form this txt? i think there r few but i cant spot all. thnx!,hard,True,extract_urls
+"hey i got an old email fulla links but i cant spot em all. can u find every url in this mess: ""check out https://myweb.com, and also http://info.net/page and dunno if www.stillgood.org works""?",hard,True,extract_urls
+"hey i got an emial with a bunch of links in it but i cant really see all of them together. can u help me find every link from this text below?
+
+Hey! Check out these sites: https://example.com, and don't forget our portal at portal.company.com/login. Also, the docs are at http://docs.example.com, and maybe see ftp://files.example.com too, kthx.",hard,True,extract_urls
+"hey .. i need to list all the urls in this paragraph. Can you help me with that ok ?? ""Check out our site at www.example.com, or visit https://docs.test.com for docs. Also, you can see more info at http:invalid.com/info,.""",hard,True,extract_urls
+"Hey i have this message someone sent me: ""Check out https://www.latestnews.com and also visit http:/special-offers.biz for cool stuff"" Can you tell me all the links in it?",hard,True,extract_urls
+Is john.doe@example.com a valid email address format?,easy,True,validate_email
+"Is ""carla.smith@domain.co"" a valid email address format?",easy,True,validate_email
+"Is the email address ""someone@example.com"" in a valid format?",easy,True,validate_email
+"Is ""janedoe@mydomain.com"" a valid email address format?",easy,True,validate_email
+Is the email address maria.smith@sample.org formatted correctly?,easy,True,validate_email
+"hey, can u check if this email is right? john.doe@@gmail.com
+
+thanks",hard,True,validate_email
+"is jenny_234@gmail,com a real email format?",hard,True,validate_email
+"hey im not sure if this one is right but can u check if john.doe@website,com is a valid email adress?",hard,True,validate_email
+hey ive got a mail like anna@@gmailcom can you check if its correct?,hard,True,validate_email
+is this email rite: john.smith at gmail? pls check if its ok for emails,hard,True,validate_email
+"Here is a human-like query suited for the extract_phone_number tool:
+
+Can you find and list the phone numbers in this message? ""You can reach us at 555-1234 or (800) 222-3456 during business hours.""",easy,True,extract_phone_number
+"Can you extract the phone number from this message: ""Hi, please call me at (555) 123-4567 when you get a chance""?",easy,True,extract_phone_number
+"Can you find the phone number in this message: ""Please call me at (555) 123-4567 when you get the chance""?",easy,True,extract_phone_number
+"Can you find all phone numbers in this text: ""Contact us at 555-1234 or (800) 999-8888 for more information""?",easy,True,extract_phone_number
+"Can you extract the phone number from this text: ""Please call me at (555) 123-4567 tomorrow""?",easy,True,extract_phone_number
+"hey i got this big list of contacts from last years club members but some of the numbers are typed out kinda weird like “(555) 123-4567” and a few like +1-555-234-5678 or just 5552345678 can you pull out all the phone #s for me? here’s the txt:
+
+Hey, call Sam at (555) 123-4567 for the food details, or maybe try Jess at +1-555-234-5678. If no answer, reach out to Lee 5552345678. Also, don’t forget to check with Mo at ext.2345 but I’m not sure if that’s a phone.",hard,True,extract_phone_number
+"Can u help me to find the phne numbr in this?: ""You can call me anytime at (555) 776-1234 or just email.""",hard,True,extract_phone_number
+can u please find the phone #s in this ? here’s the text: Call me at 555-1234 or reach my office at (800) 999-1212. ok thnks,hard,True,extract_phone_number
+"hey, could u pull out any phone numers from this? ""Contact me at office or my cell 555 231-8899 or maybe at the old number 800-442-0123 thanks""?",hard,True,extract_phone_number
+"hi i have an emial that says ""call me at (555) 123 4567"" can u tell me what the phone number is?",hard,True,extract_phone_number
+What is 101101 in base 2 when converted to base 8?,easy,True,convert_bases
+What is 1101011 from base 2 in base 8?,easy,True,convert_bases
+Can you change 11011 from binary (base 2) to hexadecimal (base 16)?,easy,True,convert_bases
+What is the value of 110101 in base 8 if it's currently in base 2?,easy,True,convert_bases
+Can you convert the number 10110 from base 2 to base 8?,easy,True,convert_bases
+"i have 56 in base 7, can u turn it into base 12 for me?",hard,True,convert_bases
+hey if i have 110010 in bianry i think its base2? how do i make that into base 8 (octalll)?,hard,True,convert_bases
+"hey i got ""ZZZ"" but can you tell me what that is in base 8? thnks i think its base 36 or sumthin",hard,True,convert_bases
+i have this numbr 111101 and i thik its base2 can u tell me what it is in base 8?,hard,True,convert_bases
+"I try to change 1011 from base 2 to 8, but i not sure how its work. what it shoud be?",hard,True,convert_bases
+How many feet are in 3 meters?,easy,True,unit_conversion
+How many miles are in 10 kilometers?,easy,True,unit_conversion
+How many kilometers are there in 5000 meters?,easy,True,unit_conversion
+How many kilometers are in 500 miles?,easy,True,unit_conversion
+How many pounds are there in 20 kilograms?,easy,True,unit_conversion
+hey how many feets is 169 meter? i thikn i got the unit wrong last time.,hard,True,unit_conversion
+how many ft is 100 metets? is that longer then a mile??,hard,True,unit_conversion
+how many lbs is 80 kg? i need to know if my suitcase is gonna be over the limit,hard,True,unit_conversion
+ok so if i have 38 c like with fever whts that in fahrenhiet??,hard,True,unit_conversion
+how many pond is 5 kilo? i dont rember the conversion ratio,hard,True,unit_conversion
+How much is 100 USD in EUR?,easy,True,convert_currency
+How much is 150 GBP in USD?,easy,True,convert_currency
+How much is 50 GBP in JPY?,easy,True,convert_currency
+How much is 250 USD in JPY?,easy,True,convert_currency
+How much is 200 GBP in JPY?,easy,True,convert_currency
+"hi, can u pls tell me how many euro will i get if i have 250 usd?",hard,True,convert_currency
+how much is 150 USD in jpY?,hard,True,convert_currency
+"hey, how muh is 250.45 eurs in usd right now?",hard,True,convert_currency
+i have 300usd how much is that in JPY?,hard,True,convert_currency
+"uhh if I got like 27,50 euro how much is that in usd??",hard,True,convert_currency
+What's the weather like right now in Paris?,easy,True,get_weather
+What’s the weather like right now in Paris?,easy,True,get_weather
+What’s the weather like in Tokyo right now?,easy,True,get_weather
+What is the current weather in Paris?,easy,True,get_weather
+What's the weather like in Tokyo right now?,easy,True,get_weather
+"Hey, whats the wether like in londoon right now?",hard,True,get_weather
+what temp in new yrok rite now?,hard,True,get_weather
+whta does it look like outside in tokyo today,hard,True,get_weather
+can u tell me what the weaher is in london right now? i wanna knwo if its rainng or suny thx,hard,True,get_weather
+wats the weather in newyork today plz?,hard,True,get_weather
+What's the current price of TSLA stock?,easy,True,fetch_stock_price
+What's the latest price for GOOGL?,easy,True,fetch_stock_price
+What's the latest price for TSLA?,easy,True,fetch_stock_price
+What is the current price of MSFT stock?,easy,True,fetch_stock_price
+What's the current stock price for MSFT?,easy,True,fetch_stock_price
+what’s msft stock price rightnow?,hard,True,fetch_stock_price
+hey can you get me the currnt price for msft? is that the correct symbol or ubt? thanks,hard,True,fetch_stock_price
+"hey, can u tell me how much is TSLA stock price right now? is it up or down?",hard,True,fetch_stock_price
+hey so how much is tesa stock at the momnent? I think the symbol is tesla or TSAL?,hard,True,fetch_stock_price
+Hey can u check what thelastest price for msft is rn?,hard,True,fetch_stock_price
+What is the current price of ETH?,easy,True,fetch_crypto_price
+What's the current price of ETH?,easy,True,fetch_crypto_price
+What's the current price of ADA?,easy,True,fetch_crypto_price
+What's the latest price of ADA?,easy,True,fetch_crypto_price
+What's the current price of ETH?,easy,True,fetch_crypto_price
+how much does BTC cost rightnow?,hard,True,fetch_crypto_price
+"hey, can u tell me whats the currentprce of ethh??",hard,True,fetch_crypto_price
+what eth worth now?,hard,True,fetch_crypto_price
+Hi can you tell me what is the lates prcie for bitcoin right now?,hard,True,fetch_crypto_price
+"Hey, can u tell me how much is Ethreum cost now? I think the symbol is ETH, right? thx",hard,True,fetch_crypto_price
+"Can you please send an email to john.doe@example.com with the subject ""Project Update"" and the body ""Hi John, just checking in to give you an update on the project status. Let me know if you have any questions.""?",easy,True,send_email
+"Please send an email to john@example.com with the subject ""Project Update"" and let him know that the meeting is scheduled for Friday at 2 PM.",easy,True,send_email
+"Can you send an email to john.doe@example.com with the subject ""Project Update"" and the body ""Hi John, just checking in on the project status. Let me know if you need anything from my side.""?",easy,True,send_email
+"Can you send an email to john.doe@example.com with the subject ""Meeting Update"" and the body ""The meeting has been rescheduled to Friday at 3 PM.""?",easy,True,send_email
+"Can you send an email to john.doe@example.com with the subject ""Meeting Update"" and the message ""The meeting has been rescheduled to 3 PM tomorrow""?",easy,True,send_email
+"uhm, can you pls send a emial to my project manager (jane.doe@example.com) and also I think its about the milestone report due tmrw? Can you like, do that? The body should be like 'Hi, just checking in - will the milestone report be ready for tomorrow?' thanks",hard,True,send_email
+"I need sum1 to get a note about my meeting moved to tommorow, can u send a email to john.smithe@example, change the subject to ""Meeting moved"" adn say in the body its now on Friday at 10?",hard,True,send_email
+"hey can u send email to john.doe@example.com , ask him about our meeting time on thursday? also im not sure about the subject, maybe Meeting time? dont make it too formal pls. thx",hard,True,send_email
+hey can u send an email with the tittle meeting and say it wil start at 2pm to john@example.com plz??,hard,True,send_email
+"hey i need to email my boss quick (jane.doe@example.com), just say ""i'm running late"". wats the subject line and how do i send it?",hard,True,send_email
+"Can you send a ""Daily Standup starts now!"" message to the #team-updates channel on Slack?",easy,True,send_slack_message
+"Can you send a message to the #general channel on Slack saying ""Team meeting at 2 PM today""?",easy,True,send_slack_message
+"Can you send a message to the #marketing channel saying ""The meeting starts in 10 minutes""?",easy,True,send_slack_message
+"Can you send the message ""Team meeting starts in 10 minutes!"" to the #general Slack channel?",easy,True,send_slack_message
+"Can you send a message to the #team-updates channel saying ""The project deadline has been moved to next Friday""?",easy,True,send_slack_message
+"umm I need to tell Sarah in slack that the meeting is cancelled, dm her directly, can you help?",hard,True,send_slack_message
+"Hey, um, how do I tell #enginnerrng the deploy failed at 2am improvemetns needed psot-pone, can u send that in slack?",hard,True,send_slack_message
+can u pls remind #marketing-team 2 update their report by tmrw?,hard,True,send_slack_message
+"can u send me a msg in slack channel called #general with the text ""team meeting at 3pm""? thx",hard,True,send_slack_message
+can u pls send message to #setup-team saying sorry about the late reply i just saw this?,hard,True,send_slack_message
+"Please post the following message to Twitter: ""Excited to share our latest update with everyone!""",easy,True,post_to_x
+"Please post the following message to X: ""Excited to announce our new product launch today! #NewRelease""",easy,True,post_to_x
+"Please post the following message to X: ""Excited to share my latest project with everyone! 🚀 #NewBeginnings""",easy,True,post_to_x
+"Please post the following message to X for me: ""Excited to launch our new project today! Stay tuned for updates.""",easy,True,post_to_x
+"Please post the following message to X: ""Excited to share my latest project with everyone! #NewBeginnings""",easy,True,post_to_x
+"hey, can u hlep me figure out how do i send a tweet about my dog using this tool? what should i put in the message?",hard,True,post_to_x
+"hey so can you tweet s/thing like friday's been so long,, is it just me? (pls add a pizza emoji at ther end)",hard,True,post_to_x
+"can u send a tweet saying ""Just tried the new pizza place, soooo good!""?",hard,True,post_to_x
+"hey, cud u send ""Happy Birtday to my best freind!"" to twitter?",hard,True,post_to_x
+"hey can u post this: ""Had pancakes for dinner lol #breakfastfordinner"" to my X?",hard,True,post_to_x
+"Can you schedule a meeting called ""Team Sync"" for June 20, 2024, at 2:00 PM at the main conference room?",easy,True,create_event
+Can you add a meeting with the team for next Thursday at 3pm in the main conference room to my calendar?,easy,True,create_event
+"Can you add a meeting titled ""Project Update"" for June 30th at 2pm at the downtown office?",easy,True,create_event
+"Can you schedule a meeting titled ""Project Kickoff"" for June 20, 2024, at 2:00 PM at the main office?",easy,True,create_event
+Can you add a meeting with Sarah at the office tomorrow at 3pm to my calendar?,easy,True,create_event
+Hey how can i make a new event in my calendar for tomorrows team meet at 2pm in meeting room B?,hard,True,create_event
+"hey i need to put a borthday party for my friend on calender. its on July 14th 6pm, um could you create it? oh and its at his house, thanks!",hard,True,create_event
+umm can u make a calender thing for meetin w/ Sarah at teh cafe next friday at 2pm?,hard,True,create_event
+i wanna rember when is moms birthday paryt on jun 15 at 6pm. her house,hard,True,create_event
+"i wanna set up a mtg with Bob at new office next friday at 2pm, can u make the event?",hard,True,create_event
+Remind me to call the doctor tomorrow at 10 AM.,easy,True,set_reminder
+Please remind me to call my doctor tomorrow at 10 AM.,easy,True,set_reminder
+Remind me to call my dentist at 3pm tomorrow.,easy,True,set_reminder
+Remind me to call my doctor tomorrow at 10:00 AM.,easy,True,set_reminder
+Can you remind me to call the dentist tomorrow at 10am?,easy,True,set_reminder
+"im always forgetting to call my mom, can u set a rmeinder for me to phone her next tuesday at like in the evening?",hard,True,set_reminder
+remind me for my moms birthday on July 8th but uhhh i dont remember what ISO format is so just put it at like 10am in the morning pls,hard,True,set_reminder
+can you help me remind me about my moms birthday on 10th june?,hard,True,set_reminder
+"hey i got i haveeee to call my mom omorrow at 8, can u rmeind me?",hard,True,set_reminder
+Remind me too take out the traash tmrw at 8 in th morning,hard,True,set_reminder
+Can you remind me to call the dentist tomorrow?,easy,True,add_to_todo_list
+"Can you add ""buy groceries"" to my to-do list?",easy,True,add_to_todo_list
+"Can you add ""do laundry"" to my to-do list?",easy,True,add_to_todo_list
+"Can you add ""get gas"" to my to-do list?",easy,True,add_to_todo_list
+"Can you add ""call the vet for Max's appointment"" to my to-do list?",easy,True,add_to_todo_list
+"umm can u put ""get car fixd"" in my tasks? thx",hard,True,add_to_todo_list
+umm i need to rember to call mom l8r can u put that on my todo list?,hard,True,add_to_todo_list
+"uhm i have to call my mum abt her birthday, can u put that on my totdo list plz",hard,True,add_to_todo_list
+"i keep froggeting, can u add ""buy grocries"" to my todo?",hard,True,add_to_todo_list
+"hey, can u plz put 'call mom n remind her about the dr appointmant' on my todo list? thanks!",hard,True,add_to_todo_list
+What are the latest travel restrictions for US citizens visiting Japan?,easy,True,web_search
+What is the latest news about the Artemis II mission?,easy,True,web_search
+What is the latest news about electric vehicle battery technology in 2024?,easy,True,web_search
+What are the latest headlines about renewable energy developments this week?,easy,True,web_search
+What are the latest news headlines about electric vehicles this week?,easy,True,web_search
+"when did ladt season stranger things come out, and is there a new one coming soon?",hard,True,web_search
+whats the weather like in madrid tormorow?,hard,True,web_search
+whta year did barack obamma win his first presidential election?,hard,True,web_search
+what’s the latest news abot web3 tech in 2024?,hard,True,web_search
+"wahts the lastest news abuot african cup of nations, who won this year?",hard,True,web_search
+"Find all pages related to ""marketing plan"" in the Notion workspace.",easy,True,notion_search
+Can you find my meeting notes from last week in my Notion workspace?,easy,True,notion_search
+Can you find my notes about the marketing strategy in our Notion workspace?,easy,True,notion_search
+"Can you find the Notion page titled ""2024 Marketing Plan""?",easy,True,notion_search
+"Can you find pages in our Notion workspace that mention ""quarterly marketing plan""?",easy,True,notion_search
+where did i put taht meeting notes from last thurdsday in my notion?,hard,True,notion_search
+"i think i made a ""Work Plan"" page last month but cant rember the exact name. can u check notion for ""work plan"" or similar?",hard,True,notion_search
+what was the meeting notes aboit project x in april?,hard,True,notion_search
+"can u check if i have a page in notion about ""health projects"" or maybe ""healthproject"" with no space? I cant quite remmber the excact title",hard,True,notion_search
+do we got a nots page abot team branstormin sesion last weak?,hard,True,notion_search
+What is the process for submitting a travel expense claim?,easy,True,retrieve_data
+What is the current vacation policy for employees?,easy,True,retrieve_data
+What is the process for submitting a travel reimbursement request?,easy,True,retrieve_data
+Where can I find the latest guidelines for remote work in our company?,easy,True,retrieve_data
+What is the process for requesting a laptop replacement?,easy,True,retrieve_data
+"how do u submit expnses for trips, cant find the link??",hard,True,retrieve_data
+"hey, um, where do you find the thing for getting id badge when ur new here? i didnt get mine yet and i dunno if theres a form or something?",hard,True,retrieve_data
+hey uh how do i file for expenc reimbursement again? where do i send my forms and what is the policy?,hard,True,retrieve_data
+um im have a issue i need to send my laptop to IT for fixing but do i need to fill out a form first or just hand it in? how do i start this process,hard,True,retrieve_data
+plz how do i get my reimbursements back? forgot process,hard,True,retrieve_data
+What is the average sale amount from the sales table?,easy,True,query_database
+What is the total sales value for last month?,easy,True,query_database
+What is the total number of customers in the database?,easy,True,query_database
+What is the total number of sales made in the last month?,easy,True,query_database
+What is the total sales amount for last month?,easy,True,query_database
+uhh can u check in saless table for the totle sales amount where product_name is wrnogly typed as “iphon” not “iphone”? speling matters!,hard,True,query_database
+how many cutomers bought something lasy month?,hard,True,query_database
+Can u tell me how many customers are named 'john' in the custmers table?,hard,True,query_database
+Can you tel me how many sales we had last month? I want the exact count pls.,hard,True,query_database
+whats the averge price for itmes in the inventory?,hard,True,query_database
+"Can you make me a 12-character password with numbers, symbols, and uppercase letters?",easy,True,generate_password
+"Can you create a 12-character password for me that includes symbols, numbers, and uppercase letters?",easy,True,generate_password
+Can you create a random 12-character password that includes both uppercase letters and symbols?,easy,True,generate_password
+"Can you create a 12-character password for me that uses symbols, numbers, and uppercase letters?",easy,True,generate_password
+"Can you make me a password that's 12 characters long, includes uppercase letters and numbers, but no symbols?",easy,True,generate_password
+"hey i needa password for my new training acc, like 13 charcters i want numbers and symbols but dont use capital letters thx",hard,True,generate_password
+cna yu make pasword like 17 letter long with out any simbols but use numers and caps?,hard,True,generate_password
+"i need a pasword that’s about 15 characters,,, should I include symbols? maybe numbers and big letters would be good too. can you help me do that",hard,True,generate_password
+"i need to mak a passwrod for my new email. can you do like 10 letters, with caps and number but no symbold pls",hard,True,generate_password
+"hey, can u make mea new passwrd thats strong? i want like 14letters, use upprcase, symbls and some numbers plz",hard,True,generate_password

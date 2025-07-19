@@ -1,0 +1,388 @@
+- name: calculator
+  description: Perform basic arithmetic calculations.
+  parameters:
+    properties:
+      expression:
+        type: string
+        description: Arithmetic expression to evaluate.
+
+- name: compute_median
+  description: Compute the median of a list of numbers.
+  parameters:
+    properties:
+      numbers:
+        type: array
+        description: List of numbers.
+
+- name: compute_std_dev
+  description: Compute the standard deviation of a list of numbers.
+  parameters:
+    properties:
+      numbers:
+        type: array
+        description: List of numbers.
+
+- name: compute_min_max
+  description: Compute the minimum and maximum from a list of numbers.
+  parameters:
+    properties:
+      numbers:
+        type: array
+        description: List of numbers.
+
+- name: calculate_combinations
+  description: Calculate the number of possible combinations for given n and r.
+  parameters:
+    properties:
+      n:
+        type: integer
+        description: Total number of items.
+      r:
+        type: integer
+        description: Number of items to choose.
+
+- name: calculate_tax
+  description: Calculate US federal income tax based on income and 2025 tax brackets.
+  parameters:
+    properties:
+      income:
+        type: number
+        description: Total income amount in US dollars.
+
+- name: add_days_to_date
+  description: Add a number of days to a given date in YYYY-MM-DD format.
+  parameters:
+    properties:
+      date:
+        type: string
+        description: Starting date in YYYY-MM-DD format.
+      days:
+        type: integer
+        description: Number of days to add.
+
+- name: get_weekday_from_date
+  description: Get the weekday from a given date in YYYY-MM-DD format.
+  parameters:
+    properties:
+      date:
+        type: string
+        description: Date in YYYY-MM-DD format.
+
+- name: convert_time_zone
+  description: Convert time between time zones.
+  parameters:
+    properties:
+      datetime_str:
+        type: string
+        description: Datetime string in ISO format.
+      from_timezone:
+        type: string
+        description: Original timezone (e.g., 'UTC').
+      to_timezone:
+        type: string
+        description: Target timezone (e.g., 'America/New_York').
+
+- name: calculate_date_diff
+  description: Calculate the difference in days between two dates in YYYY-MM-DD format.
+  parameters:
+    properties:
+      start_date:
+        type: string
+        description: Start date in YYYY-MM-DD format.
+      end_date:
+        type: string
+        description: End date in YYYY-MM-DD format.
+
+- name: get_unix_timestamp
+  description: Convert a date to a Unix timestamp in YYYY-MM-DD format.
+  parameters:
+    properties:
+      date:
+        type: string
+        description: Date in YYYY-MM-DD format.
+
+- name: get_current_datetime
+  description: Get the current date and time.
+  parameters:
+    properties: {}
+
+- name: reverse_list
+  description: Reverse the order of a list.
+  parameters:
+    properties:
+      items:
+        type: array
+        description: List of items to reverse.
+
+- name: deduplicate_list
+  description: Remove duplicates from a list.
+  parameters:
+    properties:
+      items:
+        type: array
+        description: List of items to deduplicate.
+
+- name: sort_list
+  description: Sort a list in ascending or descending order.
+  parameters:
+    properties:
+      items:
+        type: array
+        description: List of items to sort.
+      descending:
+        type: boolean
+        description: Sort in descending order if true.
+
+- name: filter_list
+  description: Filter a list based on a condition.
+  parameters:
+    properties:
+      items:
+        type: array
+        description: List of items to filter.
+      condition:
+        type: string
+        description: Python expression as filter condition (e.g., 'x > 10').
+
+- name: word_count
+  description: Count the number of words in a text.
+  parameters:
+    properties:
+      text:
+        type: string
+        description: Input text.
+
+- name: char_count
+  description: Count the number of specific characters in a text.
+  parameters:
+    properties:
+      text:
+        type: string
+        description: Input text.
+      character:
+        type: string
+        description: Specific character to count (e.g., 'r', 'a', ' ').
+
+- name: slugify_text
+  description: Convert text to a URL-friendly slug.
+  parameters:
+    properties:
+      text:
+        type: string
+        description: Input text to slugify.
+
+- name: extract_hashtags
+  description: Extract hashtags from a text.
+  parameters:
+    properties:
+      text:
+        type: string
+        description: Input text containing hashtags.
+
+- name: extract_urls
+  description: Extract URLs from a text.
+  parameters:
+    properties:
+      text:
+        type: string
+        description: Input text containing URLs.
+
+- name: validate_email
+  description: Validate the format of an email address.
+  parameters:
+    properties:
+      email:
+        type: string
+        description: Email address to validate.
+
+- name: extract_phone_number
+  description: Extract phone numbers from text.
+  parameters:
+    properties:
+      text:
+        type: string
+        description: Input text containing phone numbers.
+
+- name: convert_bases
+  description: Convert a number from one base to another.
+  parameters:
+    properties:
+      number:
+        type: string
+        description: Number as a string.
+      from_base:
+        type: integer
+        description: Base of the input number.
+      to_base:
+        type: integer
+        description: Base to convert to.
+
+- name: unit_conversion
+  description: "Convert a value between different units. Available units for conversion: Length - m (meters), ft (feet), km (kilometers), mi (miles); Weight - kg (kilograms), lb (pounds); Temperature - c (celsius), f (fahrenheit)."
+  parameters:
+    properties:
+      value:
+        type: number
+        description: Value to convert.
+      from_unit:
+        type: string
+        description: Unit of the value (e.g., 'm', 'ft', 'kg', 'lb', 'c', 'f').
+      to_unit:
+        type: string
+        description: Target unit (e.g., 'ft', 'm', 'lb', 'kg', 'f', 'c').
+
+- name: convert_currency
+  description: "Convert an amount between currencies. Available currencies for conversion: USD (US Dollar), EUR (Euro), GBP (British Pound), JPY (Japanese Yen)."
+  parameters:
+    properties:
+      amount:
+        type: number
+        description: Amount to convert.
+      from_currency:
+        type: string
+        description: Source currency code (e.g., 'USD').
+      to_currency:
+        type: string
+        description: Target currency code (e.g., 'EUR').
+
+- name: get_weather
+  description: "Get the current weather for a major city. Available cities: new york, london, tokyo, paris."
+  parameters:
+    properties:
+      city:
+        type: string
+        description: Name of the major city (e.g., 'New York', 'London', 'Tokyo').
+
+- name: fetch_stock_price
+  description: "Fetch the current stock price for a symbol. Available symbols: AAPL, GOOGL, MSFT, TSLA."
+  parameters:
+    properties:
+      symbol:
+        type: string
+        description: Stock ticker symbol (e.g., 'AAPL').
+
+- name: fetch_crypto_price
+  description: "Fetch the current price of a cryptocurrency. Available symbols: BTC, ETH, ADA, DOT."
+  parameters:
+    properties:
+      symbol:
+        type: string
+        description: Cryptocurrency symbol (e.g., 'BTC').
+
+- name: send_email
+  description: Send an email to a recipient.
+  parameters:
+    properties:
+      to:
+        type: string
+        description: Recipient email address.
+      subject:
+        type: string
+        description: Subject of the email.
+      body:
+        type: string
+        description: Body of the email.
+
+- name: send_slack_message
+  description: Send a message to a Slack channel.
+  parameters:
+    properties:
+      channel:
+        type: string
+        description: Slack channel name or ID.
+      message:
+        type: string
+        description: Message content.
+
+- name: post_to_x
+  description: Post a message to X (Twitter).
+  parameters:
+    properties:
+      message:
+        type: string
+        description: Content of the post.
+
+- name: create_event
+  description: Create a calendar event.
+  parameters:
+    properties:
+      title:
+        type: string
+        description: Title of the event.
+      datetime_str:
+        type: string
+        description: Datetime of the event in ISO format.
+      location:
+        type: string
+        description: Location of the event.
+
+- name: set_reminder
+  description: Set a reminder for a task.
+  parameters:
+    properties:
+      message:
+        type: string
+        description: Reminder message.
+      datetime_str:
+        type: string
+        description: Datetime for the reminder in ISO format.
+
+- name: add_to_todo_list
+  description: Add a task to the to-do list.
+  parameters:
+    properties:
+      task:
+        type: string
+        description: Description of the task.
+
+- name: web_search
+  description: Perform a web search for a query.
+  parameters:
+    properties:
+      query:
+        type: string
+        description: Search query string.
+
+- name: notion_search
+  description: Search for pages in a Notion workspace.
+  parameters:
+    properties:
+      query:
+        type: string
+        description: Search query string to find Notion pages.
+
+- name: retrieve_data
+  description: "Retrieve information from a local company knowledge base. Search examples - \"password reset\" -> Password reset procedures, \"new employee onboarding\" -> Onboarding checklist, \"expense reimbursement\" -> Expense policy, \"API documentation\" -> Technical guides"
+  parameters:
+    properties:
+      query:
+        type: string
+        description: Query or keywords for retrieval.
+
+- name: query_database
+  description: "Run a SQL query on customer, sales, or inventory tables. Supported SQL operations - SELECT, WHERE, ORDER BY, LIMIT, COUNT, SUM, AVG, MAX, MIN. Table schemas: customers (id INTEGER PRIMARY KEY, name TEXT, email TEXT, city TEXT, country TEXT, join_date TEXT, total_spent REAL, status TEXT), sales (id INTEGER PRIMARY KEY, customer_id INTEGER, product_name TEXT, quantity INTEGER, unit_price REAL, total_amount REAL, sale_date TEXT, region TEXT), inventory (id INTEGER PRIMARY KEY, product_name TEXT, category TEXT, quantity_in_stock INTEGER, unit_price REAL, supplier TEXT, last_restocked TEXT, reorder_level INTEGER)"
+  parameters:
+    properties:
+      query:
+        type: string
+        description: SQL query string.
+      dataset:
+        type: string
+        description: Name of table. Possible values - 'customers', 'sales', 'inventory'
+
+- name: generate_password
+  description: Generate a random password.
+  parameters:
+    properties:
+      length:
+        type: integer
+        description: Length of the password to generate.
+      use_symbols:
+        type: boolean
+        description: Include symbols if true.
+      use_numbers:
+        type: boolean
+        description: Include numbers if true.
+      use_uppercase:
+        type: boolean
+        description: Include uppercase letters if true.

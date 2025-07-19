@@ -1,0 +1,125 @@
+model_name,query,query_type,num_tools_available,expected_tool_name,model_called_tool,model_tool_name,model_called_tool_when_needed,model_called_correct_tool,tool_call_success
+google/gemma-3-1b-it,Hy... can u pls tell me how many days is it between 2022-6-15 and 2023-07-01? thx,hard,23,calculate_date_diff,True,calculate_date_diff,True,True,False
+shawhin/gemma-3-1b-tool-use,Hy... can u pls tell me how many days is it between 2022-6-15 and 2023-07-01? thx,hard,23,calculate_date_diff,True,calculate_date_diff,True,True,True
+google/gemma-3-1b-it,What are some affordable ways to discover new hobbies as an adult if you’re not sure where to start?,no_tool,37,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,What are some affordable ways to discover new hobbies as an adult if you’re not sure where to start?,no_tool,37,,False,,True,False,False
+google/gemma-3-1b-it,What is the current date and time right now?,easy,20,get_current_datetime,True,get_current_datetime,True,True,True
+shawhin/gemma-3-1b-tool-use,What is the current date and time right now?,easy,20,get_current_datetime,True,get_current_datetime,True,True,True
+google/gemma-3-1b-it,What are the step-by-step instructions to create a basic business plan for a small startup?,no_tool,1,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,What are the step-by-step instructions to create a basic business plan for a small startup?,no_tool,1,,False,,True,False,False
+google/gemma-3-1b-it,how many pond is 5 kilo? i dont rember the conversion ratio,hard,20,unit_conversion,True,convert_currency,True,False,False
+shawhin/gemma-3-1b-tool-use,how many pond is 5 kilo? i dont rember the conversion ratio,hard,20,unit_conversion,False,,False,False,False
+google/gemma-3-1b-it,Can you review this buisness proposal and tell me where I need to fix grammer and also if the format is okay?,no_tool,26,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,Can you review this buisness proposal and tell me where I need to fix grammer and also if the format is okay?,no_tool,26,,False,,True,False,False
+google/gemma-3-1b-it,"How many words are in the sentence ""The quick brown fox jumps over the lazy dog""?",easy,0,word_count,True,slugify_text,True,False,True
+shawhin/gemma-3-1b-tool-use,"How many words are in the sentence ""The quick brown fox jumps over the lazy dog""?",easy,0,word_count,True,word_count,True,True,True
+google/gemma-3-1b-it,"Whihc is better, stovetop or oven for coooking chiken faster?",no_tool,39,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,"Whihc is better, stovetop or oven for coooking chiken faster?",no_tool,39,,False,,True,False,False
+google/gemma-3-1b-it,"how mutch is the std dev for these numbers - 25, 40 35, 30?",hard,31,compute_std_dev,True,calculate_average,True,False,False
+shawhin/gemma-3-1b-tool-use,"how mutch is the std dev for these numbers - 25, 40 35, 30?",hard,31,compute_std_dev,True,calculate_std_dev,True,False,False
+google/gemma-3-1b-it,what’s msft stock price rightnow?,hard,0,fetch_stock_price,True,notion_search,True,False,True
+shawhin/gemma-3-1b-tool-use,what’s msft stock price rightnow?,hard,0,fetch_stock_price,True,get_stock_price,True,False,False
+google/gemma-3-1b-it,Hi can you tell me what is the lates prcie for bitcoin right now?,hard,0,fetch_crypto_price,True,query_database,True,False,False
+shawhin/gemma-3-1b-tool-use,Hi can you tell me what is the lates prcie for bitcoin right now?,hard,0,fetch_crypto_price,True,query_database,True,False,False
+google/gemma-3-1b-it,Can you create a random 12-character password that includes both uppercase letters and symbols?,easy,0,generate_password,True,compute_min_max,True,False,True
+shawhin/gemma-3-1b-tool-use,Can you create a random 12-character password that includes both uppercase letters and symbols?,easy,0,generate_password,True,compute_min_max,True,False,True
+google/gemma-3-1b-it,Why do some students feel overwhelmed by the current education system?,no_tool,20,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,Why do some students feel overwhelmed by the current education system?,no_tool,20,,False,,True,False,False
+google/gemma-3-1b-it,What day of the week was 2024-02-14?,easy,0,get_weekday_from_date,True,calculate_tax,True,False,False
+shawhin/gemma-3-1b-tool-use,What day of the week was 2024-02-14?,easy,0,get_weekday_from_date,True,get_weekday_from_date,True,True,True
+google/gemma-3-1b-it,What is the result of 145.7 divided by 3.5?,easy,6,calculator,True,calculator,True,True,True
+shawhin/gemma-3-1b-tool-use,What is the result of 145.7 divided by 3.5?,easy,6,calculator,True,calculator,True,True,True
+google/gemma-3-1b-it,"I have a list with repeated items: [""apple"", ""banana"", ""apple"", ""orange"", ""banana""]. Can you give me the list without any duplicates?",easy,3,deduplicate_list,True,deduplicate_list,True,True,False
+shawhin/gemma-3-1b-tool-use,"I have a list with repeated items: [""apple"", ""banana"", ""apple"", ""orange"", ""banana""]. Can you give me the list without any duplicates?",easy,3,deduplicate_list,True,filter_list,True,False,False
+google/gemma-3-1b-it,"Sure! Here’s your query:
+
+Can u explan step by step how to getting started with wood carving as a hoby? Pleaze list the steps, but dont ferget to say witch tool is needed for each stp.",no_tool,22,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,"Sure! Here’s your query:
+
+Can u explan step by step how to getting started with wood carving as a hoby? Pleaze list the steps, but dont ferget to say witch tool is needed for each stp.",no_tool,22,,False,,True,False,False
+google/gemma-3-1b-it,What is the total sales value for last month?,easy,0,query_database,True,get_current_datetime,True,False,True
+shawhin/gemma-3-1b-tool-use,What is the total sales value for last month?,easy,0,query_database,True,get_current_datetime,True,False,True
+google/gemma-3-1b-it,"Can you add ""get gas"" to my to-do list?",easy,17,add_to_todo_list,True,add_to_todo_list,True,True,True
+shawhin/gemma-3-1b-tool-use,"Can you add ""get gas"" to my to-do list?",easy,17,add_to_todo_list,True,add_to_todo_list,True,True,True
+google/gemma-3-1b-it,How much is 250 USD in JPY?,easy,1,convert_currency,True,convert_currency,True,True,False
+shawhin/gemma-3-1b-tool-use,How much is 250 USD in JPY?,easy,1,convert_currency,True,convert_currency,True,True,True
+google/gemma-3-1b-it,wht is the important of fitness for our all health?,no_tool,0,,True,knowledge,False,False,False
+shawhin/gemma-3-1b-tool-use,wht is the important of fitness for our all health?,no_tool,0,,False,,True,False,False
+google/gemma-3-1b-it,"hey can u make a slug of ""Best Ways to Cook Eggs""?",hard,4,slugify_text,True,slugify_text,True,True,True
+shawhin/gemma-3-1b-tool-use,"hey can u make a slug of ""Best Ways to Cook Eggs""?",hard,4,slugify_text,True,slugify_text,True,True,True
+google/gemma-3-1b-it,Can u tell me what is th unix timestamp for 2018-9-7?,hard,35,get_unix_timestamp,True,compute_unix_timestamp,True,False,False
+shawhin/gemma-3-1b-tool-use,Can u tell me what is th unix timestamp for 2018-9-7?,hard,35,get_unix_timestamp,True,get_unix_timestamp,True,True,True
+google/gemma-3-1b-it,"um so like, how many words r in this sentance: The quick brown fox jumps over the lazy dog & the cat too?",hard,16,word_count,True,extract_urls,True,False,False
+shawhin/gemma-3-1b-tool-use,"um so like, how many words r in this sentance: The quick brown fox jumps over the lazy dog & the cat too?",hard,16,word_count,False,,False,False,False
+google/gemma-3-1b-it,"hi, i got this numbers: [5, 2, 9, 4, 8], whats the medain?",hard,0,compute_median,True,compute_median,True,True,False
+shawhin/gemma-3-1b-tool-use,"hi, i got this numbers: [5, 2, 9, 4, 8], whats the medain?",hard,0,compute_median,True,compute_median,True,True,True
+google/gemma-3-1b-it,Please remind me to call my doctor tomorrow at 10 AM.,easy,34,set_reminder,True,set_reminder,True,True,True
+shawhin/gemma-3-1b-tool-use,Please remind me to call my doctor tomorrow at 10 AM.,easy,34,set_reminder,True,add_reminder,True,False,False
+google/gemma-3-1b-it,"can u pull out all the happhtags from this txt: I love #coding, #python and #AI so much!",hard,0,extract_hashtags,True,extract_urls,True,False,True
+shawhin/gemma-3-1b-tool-use,"can u pull out all the happhtags from this txt: I love #coding, #python and #AI so much!",hard,0,extract_hashtags,True,extract_urls,True,False,True
+google/gemma-3-1b-it,"What does the term ""fitness"" mean?",no_tool,2,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,"What does the term ""fitness"" mean?",no_tool,2,,False,,True,False,False
+google/gemma-3-1b-it,"im in berlin and got a call set for 2024-07-12T13:15:00Z, wt time should I join?",hard,2,convert_time_zone,True,,True,False,False
+shawhin/gemma-3-1b-tool-use,"im in berlin and got a call set for 2024-07-12T13:15:00Z, wt time should I join?",hard,2,convert_time_zone,True,get_unix_timestamp,True,False,True
+google/gemma-3-1b-it,"can u tell me whats the std deviation for these numbers? 10, 15 , 8 , 22, 10",hard,0,compute_std_dev,True,compute_std_dev,True,True,False
+shawhin/gemma-3-1b-tool-use,"can u tell me whats the std deviation for these numbers? 10, 15 , 8 , 22, 10",hard,0,compute_std_dev,True,compute_std_dev,True,True,True
+google/gemma-3-1b-it,"Write a Python function that takes a list of daily step counts as input and returns the average number of steps for the days where the step count exceeds 10,000.",no_tool,18,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,"Write a Python function that takes a list of daily step counts as input and returns the average number of steps for the days where the step count exceeds 10,000.",no_tool,18,,False,,True,False,False
+google/gemma-3-1b-it,what time isit if its 2024-06-27T10:30:00 in utc? i need new york time plz.,hard,0,convert_time_zone,True,convert_time_zone,True,True,True
+shawhin/gemma-3-1b-tool-use,what time isit if its 2024-06-27T10:30:00 in utc? i need new york time plz.,hard,0,convert_time_zone,True,convert_time_zone,True,True,False
+google/gemma-3-1b-it,"uhh if I got like 27,50 euro how much is that in usd??",hard,8,convert_currency,True,,True,False,False
+shawhin/gemma-3-1b-tool-use,"uhh if I got like 27,50 euro how much is that in usd??",hard,8,convert_currency,True,convert_currency,True,True,True
+google/gemma-3-1b-it,"Which numbers from this list [3, 8, 15, 22, 6] are greater than 10?",easy,6,filter_list,True,sort_list,True,False,True
+shawhin/gemma-3-1b-tool-use,"Which numbers from this list [3, 8, 15, 22, 6] are greater than 10?",easy,6,filter_list,True,filter_list,True,True,True
+google/gemma-3-1b-it,Can you review this business proposal and suggest ways to make the introduction more compelling?,no_tool,27,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,Can you review this business proposal and suggest ways to make the introduction more compelling?,no_tool,27,,False,,True,False,False
+google/gemma-3-1b-it,"What are the minimum and maximum values in this list: [14, 5, 89, -2, 33, 7]?",easy,30,compute_min_max,True,calculate_min_max,True,False,False
+shawhin/gemma-3-1b-tool-use,"What are the minimum and maximum values in this list: [14, 5, 89, -2, 33, 7]?",easy,30,compute_min_max,False,,False,False,False
+google/gemma-3-1b-it,plz how do i get my reimbursements back? forgot process,hard,0,retrieve_data,True,notion_search,True,False,True
+shawhin/gemma-3-1b-tool-use,plz how do i get my reimbursements back? forgot process,hard,0,retrieve_data,False,,False,False,False
+google/gemma-3-1b-it,What is a hobby and why are hobbies important for people?,no_tool,21,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,What is a hobby and why are hobbies important for people?,no_tool,21,,False,,True,False,False
+google/gemma-3-1b-it,What's the current price of TSLA stock?,easy,35,fetch_stock_price,True,get_crypto_price,True,False,False
+shawhin/gemma-3-1b-tool-use,What's the current price of TSLA stock?,easy,35,fetch_stock_price,True,get_stock_price,True,False,False
+google/gemma-3-1b-it,What is the definition of a hobby?,no_tool,1,,True,query_database,False,False,False
+shawhin/gemma-3-1b-tool-use,What is the definition of a hobby?,no_tool,1,,False,,True,False,False
+google/gemma-3-1b-it,What is the Unix timestamp for 2001-09-11?,easy,20,get_unix_timestamp,True,get_unix_timestamp,True,True,False
+shawhin/gemma-3-1b-tool-use,What is the Unix timestamp for 2001-09-11?,easy,20,get_unix_timestamp,True,get_unix_timestamp,True,True,True
+google/gemma-3-1b-it,"hey, can u hlep me figure out how do i send a tweet about my dog using this tool? what should i put in the message?",hard,0,post_to_x,True,set_reminder,True,False,True
+shawhin/gemma-3-1b-tool-use,"hey, can u hlep me figure out how do i send a tweet about my dog using this tool? what should i put in the message?",hard,0,post_to_x,True,create_tweet,True,False,False
+google/gemma-3-1b-it,"hwy do i make [21,8,6] go backwards list?",hard,0,reverse_list,True,get_current_datetime,True,False,True
+shawhin/gemma-3-1b-tool-use,"hwy do i make [21,8,6] go backwards list?",hard,0,reverse_list,True,reverse_list,True,True,True
+google/gemma-3-1b-it,What is 120 divided by 8 plus 7?,easy,2,calculator,True,calculator,True,True,True
+shawhin/gemma-3-1b-tool-use,What is 120 divided by 8 plus 7?,easy,2,calculator,True,calculator,True,True,True
+google/gemma-3-1b-it,"Can you find the phone number in this message: ""Please call me at (555) 123-4567 when you get the chance""?",easy,23,extract_phone_number,True,extract_phone_number,True,True,True
+shawhin/gemma-3-1b-tool-use,"Can you find the phone number in this message: ""Please call me at (555) 123-4567 when you get the chance""?",easy,23,extract_phone_number,True,extract_phone_number,True,True,True
+google/gemma-3-1b-it,What is the main purpose of education?,no_tool,10,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,What is the main purpose of education?,no_tool,10,,False,,True,False,False
+google/gemma-3-1b-it,What is the difference between baking and frying when cooking food?,no_tool,4,,True,,False,False,False
+shawhin/gemma-3-1b-tool-use,What is the difference between baking and frying when cooking food?,no_tool,4,,False,,True,False,False
+google/gemma-3-1b-it,What are the latest headlines about renewable energy developments this week?,easy,32,web_search,True,get_news,True,False,False
+shawhin/gemma-3-1b-tool-use,What are the latest headlines about renewable energy developments this week?,easy,32,web_search,True,get_news,True,False,False
+google/gemma-3-1b-it,What's one thing about the current education system that really frustrates you?,no_tool,27,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,What's one thing about the current education system that really frustrates you?,no_tool,27,,False,,True,False,False
+google/gemma-3-1b-it,do we got a nots page abot team branstormin sesion last weak?,hard,0,notion_search,True,send_slack_message,True,False,True
+shawhin/gemma-3-1b-tool-use,do we got a nots page abot team branstormin sesion last weak?,hard,0,notion_search,True,extract_keywords,True,False,False
+google/gemma-3-1b-it,What is the current date and time right now?,easy,0,get_current_datetime,True,retrieve_data,True,False,True
+shawhin/gemma-3-1b-tool-use,What is the current date and time right now?,easy,0,get_current_datetime,True,get_current_datetime,True,True,True
+google/gemma-3-1b-it,"How many times does the letter ""e"" appear in the sentence ""Experience is the best teacher""?",easy,0,char_count,True,char_count,True,True,True
+shawhin/gemma-3-1b-tool-use,"How many times does the letter ""e"" appear in the sentence ""Experience is the best teacher""?",easy,0,char_count,True,word_count,True,False,True
+google/gemma-3-1b-it,"hey, what day of the weeek was 2023-12-13 ??",hard,35,get_weekday_from_date,True,compute_median,True,False,False
+shawhin/gemma-3-1b-tool-use,"hey, what day of the weeek was 2023-12-13 ??",hard,35,get_weekday_from_date,True,get_weekday_from_date,True,True,True
+google/gemma-3-1b-it,"Write a short story (200-300 words) about a character who tries to recreate a family recipe from memory, only to accidentally invent a delicious new dish in the process.",no_tool,1,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,"Write a short story (200-300 words) about a character who tries to recreate a family recipe from memory, only to accidentally invent a delicious new dish in the process.",no_tool,1,,False,,True,False,False
+google/gemma-3-1b-it,Can you review my short essay about the benefits of maintaining a regular fitness routine and suggest ways I can improve my argumentation and clarity?,no_tool,26,,False,,True,False,False
+shawhin/gemma-3-1b-tool-use,Can you review my short essay about the benefits of maintaining a regular fitness routine and suggest ways I can improve my argumentation and clarity?,no_tool,26,,False,,True,False,False
+google/gemma-3-1b-it,"write a funtion in Python that reterns a list of unique hobbys form an input list, ignore case senstivity and keep orriginal order",no_tool,1,,True,,False,False,False
+shawhin/gemma-3-1b-tool-use,"write a funtion in Python that reterns a list of unique hobbys form an input list, ignore case senstivity and keep orriginal order",no_tool,1,,False,,True,False,False
+google/gemma-3-1b-it,wats the best way to stop rice from getting all sticky when cookin it?,no_tool,4,,True,,False,False,False
+shawhin/gemma-3-1b-tool-use,wats the best way to stop rice from getting all sticky when cookin it?,no_tool,4,,False,,True,False,False
+google/gemma-3-1b-it,How much is 100 USD in EUR?,easy,0,convert_currency,True,fetch_stock_price,True,False,True
+shawhin/gemma-3-1b-tool-use,How much is 100 USD in EUR?,easy,0,convert_currency,True,convert_currency,True,True,True
+google/gemma-3-1b-it,hey can u send an email with the tittle meeting and say it wil start at 2pm to john@example.com plz??,hard,38,send_email,True,,True,False,False
+shawhin/gemma-3-1b-tool-use,hey can u send an email with the tittle meeting and say it wil start at 2pm to john@example.com plz??,hard,38,send_email,True,send_slack_message,True,False,True
+google/gemma-3-1b-it,What are some effective strategies for staying motivated to exercise regularly when you have a busy schedule?,no_tool,1,,True,add_to_todo_list,False,False,True
+shawhin/gemma-3-1b-tool-use,What are some effective strategies for staying motivated to exercise regularly when you have a busy schedule?,no_tool,1,,False,,True,False,False
